@@ -14,7 +14,6 @@
 	}
 
  **Simple Usage**
- ```
- 	ToastMessage.toastShort(context, "Short Toast");
+ 
+	ToastMessage.toastShort(context, "Short Toast");
 	ToastMessage.toastLong(context, "Long Toast");
- ```
