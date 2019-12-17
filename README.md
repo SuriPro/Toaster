@@ -15,4 +15,5 @@
 
  **Simple Usage**
  
- 	ToastMessage.toast(context, message);
+ 	ToastMessage.toastShort(context, "Short Toast");
+	ToastMessage.toastLong(context, "Long Toast");
