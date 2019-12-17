@@ -10,5 +10,9 @@
   **Add the dependency**
 
 	dependencies {
-	        implementation 'com.github.SuriPro:Toaster:Tag'
+	        implementation 'com.github.SuriPro:Toaster:1.0'
 	}
+
+ **Simple Usage**
+ 
+ 	ToastMessage.toast(context, message);
