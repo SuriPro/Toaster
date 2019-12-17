@@ -10,7 +10,7 @@
   **Add the dependency**
 
 	dependencies {
-	        implementation 'com.github.SuriPro:Toaster:v1.1'
+	        implementation 'com.github.SuriPro:Toaster:1.1'
 	}
 
  **Simple Usage**
